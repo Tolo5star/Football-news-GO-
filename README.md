@@ -1,2 +1,3 @@
-"# Football-news-GO-" 
-# Football-news-GO-
+
+# Football-news-GO
+# Just install GO and run this program !
